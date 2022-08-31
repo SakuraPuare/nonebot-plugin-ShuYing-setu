@@ -1,0 +1,2 @@
+# nonebot-plugin-ShuYing-setu
+ 
