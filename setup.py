@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="nonebot-plugin-ShuYing-setu",
+    name="nonebot_plugin_ShuYing-setu",
     version="0.1",
     author="SakuraPuare",
     author_email="java20131114@gmail.com",
